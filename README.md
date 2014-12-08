@@ -1,6 +1,6 @@
 ###Test
 
 
-**Markdown Extra** has a special syntax for definition lists too:
+**Markdown Extra**
 
 *Term 1*
