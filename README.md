@@ -1,5 +1,5 @@
 ###Test
 
->test push
->test pull
->test commit
+-test push
+-test pull
+-test commit
