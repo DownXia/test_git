@@ -1,3 +1,4 @@
 ###Test
 
->test git
+>test push
+>test pull
