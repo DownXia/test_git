@@ -3,4 +3,4 @@
 
 **Markdown Extra**
 
-*Term 1*
+*Term *
