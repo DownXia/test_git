@@ -3,4 +3,6 @@
 
 **Markdown Extra**
 
-*Term *
+*Term1*
+-------
+*Term2*
